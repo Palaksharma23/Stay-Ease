@@ -59,11 +59,6 @@ Things you can do with URL Shortener:
 * Log out of the application
 * Manage bookings, cabins, and users
 
-<div align="center">
-<img src="https://i.ibb.co/BK8KLHM/MVC-Architecture.jpg" alt="mvc architecture" height="400"/>
-</div>
-<br/>
-
 ## Screenshots of the project
 <table>
   <tr>
